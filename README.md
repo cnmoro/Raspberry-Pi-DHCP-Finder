@@ -49,4 +49,4 @@ python /home/pi/Downloads/rasp-dhcp-finder.py &
 Boot your Pi and use the App to find its IP Address.
 
 
--- playstore app link placeholder --
+https://play.google.com/store/apps/details?id=cnmoro.finder.rasp.raspberrypifinder
