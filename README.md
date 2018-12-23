@@ -1,4 +1,4 @@
-# Raspberry-Pi-DHCP-Finder
+# Raspberry Pi DHCP Finder - How to use
 
 
 Add new file to Raspberry Pi SD Card (boot partition/folder)
