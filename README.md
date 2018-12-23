@@ -1,7 +1,7 @@
 # Raspberry-Pi-DHCP-Finder
 
 
-Add to Raspberry Pi SD Card (boot partition/folder)
+Add new file to Raspberry Pi SD Card (boot partition/folder)
 
 
 file: wpa_supplicant.conf
@@ -42,4 +42,11 @@ Add before the "exit 0" line
 
 python /home/pi/Downloads/rasp-dhcp-finder.py &
 
+
 (Change the file path accordingly)
+
+
+Boot your Pi and use the App to find its IP Address.
+
+
+-- playstore app link placeholder --
